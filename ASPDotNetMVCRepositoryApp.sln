@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPDotNetMVCRepositoryApp", "ASPDotNetMVCRepositoryApp\ASPDotNetMVCRepositoryApp.csproj", "{E58AB70A-1D70-403D-85DD-91FD2FD169DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E58AB70A-1D70-403D-85DD-91FD2FD169DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58AB70A-1D70-403D-85DD-91FD2FD169DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58AB70A-1D70-403D-85DD-91FD2FD169DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58AB70A-1D70-403D-85DD-91FD2FD169DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA9F97C-3ECF-4639-A454-9DF9CA8BBDA8}
+	EndGlobalSection
+EndGlobal
